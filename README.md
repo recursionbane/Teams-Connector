@@ -1,5 +1,5 @@
 # Teams::Connector
-A Perl module for interfacing with Microsoft Teams' Incoming Webhook
+A Perl module for interfacing with [Microsoft Teams](https://teams.microsoft.com)' [Incoming Webhook](https://msdn.microsoft.com/en-us/microsoft-teams/connectors)
 
 # Requirements
 * File::Slurp
